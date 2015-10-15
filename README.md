@@ -1,3 +1,5 @@
+# Twitter Auto - Twitter automatic manager for busy owners
+
 # The Meteor Chef - Base
 A starting point for Meteor apps.
 

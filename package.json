@@ -1,7 +1,7 @@
 {
-  "name": "application-name",
+  "name": "Twitter Auto",
   "version": "1.0.0",
-  "description": "Application description.",
+  "description": "Twitter automatic manager for busy owners.",
   "scripts": {
     "start": "meteor --settings settings-development.json",
     "staging": "meteor deploy staging.meteor.com --settings settings-development.json",
