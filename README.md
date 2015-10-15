@@ -1,5 +1,9 @@
 # Twitter Auto - Twitter automatic manager for busy owners
 
+The Twitter Auto let a user add and edit related hashtags. 
+Any tweet using those hashtags can be retweeted and/or like/Favorite.
+It can acept follows and send them a thanks message.
+
 # The Meteor Chef - Base
 A starting point for Meteor apps.
 
