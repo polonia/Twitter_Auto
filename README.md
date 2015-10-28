@@ -36,7 +36,7 @@ A starting point for Meteor apps.
     </tr>
     <tr>
       <th>Meteor Version</th>
-      <td>v1.2.0.2</td>
+      <td>v1.2.1.0</td>
     </tr>
   </tbody>
 </table>
